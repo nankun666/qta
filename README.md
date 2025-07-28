@@ -2,6 +2,7 @@ This project is a full-cycle implementation of a Quantitative Trading Analytics 
 
 <br>
 🚀 Project Highlights
+
 🧹 ETL Pipeline: Automated ingestion and transformation of intraday and daily market data using Alpaca APIs into a consolidated analytics-ready format.
 
 📈 Quantitative Analysis: Computation of industry-standard trading KPIs (e.g., Sharpe Ratio, Max Drawdown, CAGR, Win Rate, etc.).
